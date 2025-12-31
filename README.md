@@ -76,16 +76,14 @@ Currently, I’m focused on creating practical applications that solve real prob
 <br/>
 # Hi there 👋, I'm Tahmin Muntaha
 
-![Profile views](https://komarev.com/ghpvc/?username=Tahmin-Muntaha&color=1E90FF)
+## 📊 GitHub Stats (Fast)
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default)
 
-![Tahmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&hide_border=true&title_color=1E90FF&bg_color=ffffff00)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Tahmin-Muntaha&theme=default&hide_border=true&fire=1E90FF&curr_streak_num=1E90FF)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default)
 
 ## 🔗 Repositories
 
-[![Total Repos](https://img.shields.io/github/repos/Tahmin-Muntaha?style=for-the-badge&color=1E90FF)](https://github.com/Tahmin-Muntaha?tab=repositories)
+[![Total Repos](https://img.shields.io/github/repos/Tahmin-Muntaha?style=for-the-badge)](https://github.com/Tahmin-Muntaha?tab=repositories)
