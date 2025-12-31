@@ -57,16 +57,19 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <br/>
 **📞 Contact Me**
-<br/>
+<br>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" style="margin-right:60px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MuntahaTah48442" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="55" style="margin-right:60px;" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="55" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:tahminmuntaha66@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
 </p>
-<br/>
+<br>
