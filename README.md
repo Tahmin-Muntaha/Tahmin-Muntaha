@@ -57,6 +57,7 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <br/>
 **📞 Contact Me**
+
 <br>
 
 <p align="left">
@@ -72,4 +73,3 @@ Currently, I’m focused on creating practical applications that solve real prob
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
 </p>
-<br>
