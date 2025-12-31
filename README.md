@@ -75,16 +75,13 @@ Currently, I’m focused on creating practical applications that solve real prob
 </p>
 <br/>
 
-<h3>📊 GitHub Stats (Fast)</h3>
-
-<!-- Dark Mode -->
 <h3>📊 GitHub Stats (Fast)</h3> 
 
 <!-- Main GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=8FBCBB&border_radius=15&title_color=81A1C1)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1)
