@@ -77,21 +77,22 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <h3>📊 GitHub Stats (Fast)</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <!-- Main GitHub Stats -->
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1" alt="GitHub Stats" width="320"/>
+    </td>
 
-  <!-- Main GitHub Stats -->
-  <div style="flex: 1 1 300px; max-width: 350px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1" alt="GitHub Stats">
-  </div>
+    <!-- Top Languages -->
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=8FBCBB&border_radius=15&title_color=81A1C1" alt="Top Languages" width="250"/>
+    </td>
 
-  <!-- Top Languages -->
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=8FBCBB&border_radius=15&title_color=81A1C1" alt="Top Languages">
-  </div>
+    <!-- GitHub Streak -->
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1" alt="GitHub Streak" width="250"/>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Streak -->
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&bg_color=2E3440&text_color=ECEFF4&icon_color=88C0D0&border_radius=15&title_color=81A1C1" alt="GitHub Streak">
-  </div>
-
-</div>
