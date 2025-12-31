@@ -59,18 +59,17 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 ### Connect with me:
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/tahmin-muntaha/-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tahmin-muntaha/-dark-mode-only)
-
-&nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://x.com/MuntahaTah48442-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://x.com/MuntahaTah48442-dark-mode-only)
-
-&nbsp;&nbsp;
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:tahminmuntaha66@gmail.com)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" />
+  </a>
+  <a href="https://x.com/MuntahaTah48442" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="130" height="40" />
+  </a>
+  <a href="mailto:tahminmuntaha66@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" height="40" />
+  </a>
+</div>
 
 
 
