@@ -58,18 +58,18 @@ Currently, I’m focused on creating practical applications that solve real prob
 <br/>
 ### Connect with me:
 
-&nbsp;&nbsp;
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+
 <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
-  <img alt="LinkedIn Light" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
 
-&nbsp;&nbsp;
 <a href="https://x.com/MuntahaTah48442" target="_blank">
-  <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" />
+  <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
 </a>
 
-&nbsp;&nbsp;
 <a href="mailto:tahminmuntaha66@gmail.com">
-  <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
 
+</div>
