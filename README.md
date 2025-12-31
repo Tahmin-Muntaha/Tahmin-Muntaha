@@ -56,20 +56,19 @@ Currently, I’m focused on creating practical applications that solve real prob
 </div>
 
 <br/>
-### Connect with me:
+### 📞 Contact Me
+<div style="display:flex; gap:18px; flex-wrap:wrap; align-items:center;">
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-
-<a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+<a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank" style="text-decoration:none;">
+  <img src="https://api.iconify.design/logos:linkedin-icon.svg?color=%23ffffff" width="42" style="background:rgba(10,102,194,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
 </a>
 
-<a href="https://x.com/MuntahaTah48442" target="_blank">
-  <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
+<a href="https://x.com/MuntahaTah48442" target="_blank" style="text-decoration:none;">
+  <img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="42" style="background:rgba(29,161,242,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
 </a>
 
-<a href="mailto:tahminmuntaha66@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+<a href="mailto:tahminmuntaha66@gmail.com" style="text-decoration:none;">
+  <img src="https://api.iconify.design/logos:google-gmail.svg" width="42" style="background:rgba(209,72,54,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
 </a>
 
 </div>
