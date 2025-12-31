@@ -78,16 +78,13 @@ Currently, I’m focused on creating practical applications that solve real prob
 <h3>📊 GitHub Stats (Fast)</h3>
 
 <!-- Dark Mode -->
-[![GitHub Stats (Dark)](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Tahmin-Muntaha)
-<!-- Light Mode -->
-[![GitHub Stats (Light)](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Tahmin-Muntaha)
+<h3>📊 GitHub Stats (Fast)</h3> 
 
-<!-- Dark Mode Top Languages -->
-[![Top Languages (Dark)](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Tahmin-Muntaha)
-<!-- Light Mode Top Languages -->
-[![Top Languages (Light)](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Tahmin-Muntaha)
+<!-- Main GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
 
-<!-- Dark Mode Streak -->
-[![GitHub Streak (Dark)](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=dark#gh-dark-mode-only)](https://github.com/Tahmin-Muntaha)
-<!-- Light Mode Streak -->
-[![GitHub Streak (Light)](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default#gh-light-mode-only)](https://github.com/Tahmin-Muntaha)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&bg_color=1E1E2F&text_color=F8F8F2)
