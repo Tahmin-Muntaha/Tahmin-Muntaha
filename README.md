@@ -1,13 +1,15 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/bb8d97c3-109f-432f-a5a9-be4e4026d918" />
 
-<br/><br/><br/>
-**Hi there👋**  
-Welcome to my GitHub profile! This is where I share my projects and learning journey 🚀 
-I am a 3rd-year Computer Science and Engineering student with a strong interest in web development.  
-I enjoy building practical projects and continuously improving my skills.  
-Currently, I am focusing on modern  technologies and real-world applications.
+<br/>
+## Hi there 👋  
+Welcome to my GitHub profile! 🚀  
 
-<br/><br/><br/>
+I’m a **3rd-year Computer Science & Engineering student** with a strong passion for **web development**.  
+I love building **real-world projects**, exploring **modern technologies**, and continuously sharpening my skills.  
+Currently, I’m focused on creating practical applications that solve real problems.
+
+
+<br/>
 
 ### 🚀 Current Activities
 - 📘✨ **Learning Next.js** — building fast & scalable web apps  
