@@ -74,13 +74,18 @@ Currently, I’m focused on creating practical applications that solve real prob
   </a>
 </p>
 <br/>
-<h3>📊 GitHub Stats</h3>
+# Hi there 👋, I'm Tahmin Muntaha
 
-![Tahmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF)
+![Profile views](https://komarev.com/ghpvc/?username=TahminMuntaha&color=1E90FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&hide_border=true&title_color=1E90FF&bg_color=ffffff00)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahmin-Muntaha&theme=default&hide_border=true&fire=1E90FF&curr_streak_num=1E90FF)
+![Tahmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahminMuntaha&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahminMuntaha&layout=compact&theme=default&hide_border=true&title_color=1E90FF&bg_color=ffffff00)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahminMuntaha&theme=default&hide_border=true&fire=1E90FF&curr_streak_num=1E90FF)
 
 ## 🔗 Repositories
-[![Total Repos](https://img.shields.io/github/repos/Tahmin-Muntaha?style=for-the-badge&color=1E90FF)](https://github.com/Tahmin-Muntaha?tab=repositories)
+
+[![Total Repos](https://img.shields.io/github/repos/TahminMuntaha?style=for-the-badge&color=1E90FF)](https://github.com/TahminMuntaha?tab=repositories)
