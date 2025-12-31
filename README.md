@@ -74,9 +74,8 @@ Currently, I’m focused on creating practical applications that solve real prob
   </a>
 </p>
 <br/>
-# Hi there 👋, I'm Tahmin Muntaha
 
-## 📊 GitHub Stats (Fast)
+<h3>📊 GitHub Stats (Fast)</h3> 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default)
 
@@ -84,6 +83,3 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default)
 
-## 🔗 Repositories
-
-[![Total Repos](https://img.shields.io/github/repos/Tahmin-Muntaha?style=for-the-badge)](https://github.com/Tahmin-Muntaha?tab=repositories)
