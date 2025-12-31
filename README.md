@@ -77,6 +77,17 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 ### 📊 GitHub Stats (Fast)
 
-| 🧮 GitHub Stats | 💻 Top Languages | 🔥 GitHub Streak |
-|-----------------|-----------------|-----------------|
-| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&icon_color=88C0D0&border_radius=15&title_color=81A1C1&width=260) | ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&icon_color=8FBCBB&border_radius=15&title_color=81A1C1&width=260) | ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&icon_color=88C0D0&border_radius=15&title_color=81A1C1&width=260) |
+---
+
+### 🧮 GitHub Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&icon_color=FFD700&border_radius=20&title_color=FF69B4&text_color=000000)
+
+---
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&icon_color=00FFFF&border_radius=20&title_color=FF69B4&text_color=000000)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&icon_color=FF4500&border_radius=20&title_color=FF69B4&text_color=000000)
