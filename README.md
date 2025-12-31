@@ -56,20 +56,25 @@ Currently, I’m focused on creating practical applications that solve real prob
 </div>
 
 <br/>
-
 ### Connect with me:
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" />
-  </a>
-  <a href="https://x.com/MuntahaTah48442" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="130" height="40" />
-  </a>
-  <a href="mailto:tahminmuntaha66@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" height="40" />
-  </a>
-</div>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
+  <img alt="LinkedIn Light" src="./img/linkedin-light.svg" width="40px" />
+  <img alt="LinkedIn Dark" src="./img/linkedin-dark.svg" width="40px" />
+</a>
+
+&nbsp;&nbsp;
+<a href="https://x.com/MuntahaTah48442" target="_blank">
+  <img alt="X Light" src="./img/twitter-light.svg" width="40px" />
+  <img alt="X Dark" src="./img/twitter-dark.svg" width="40px" />
+</a>
+
+&nbsp;&nbsp;
+<a href="mailto:tahminmuntaha66@gmail.com">
+  <img alt="Gmail Light" src="./img/gmail-light.svg" width="40px" />
+  <img alt="Gmail Dark" src="./img/gmail-dark.svg" width="40px" />
+</a>
 
 
 
