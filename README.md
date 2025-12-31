@@ -73,3 +73,32 @@ Currently, I’m focused on creating practical applications that solve real prob
     <img src="https://skillicons.dev/icons?i=gmail" width="55" />
   </a>
 </p>
+<br/>
+<h3>🚀 GitHub Performance</h3> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="190" alt="stats graph"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=tokyonight" height="190" alt="languages graph"/>
+</p>
+
+---
+
+### 🔥 Contribution Highlights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tahmin-Muntaha&theme=tokyonight" height="200" alt="streak graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahmin-Muntaha&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies"/>
+</p>
+
+---
+
+### 📈 Activity Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmin-Muntaha&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
