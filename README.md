@@ -60,21 +60,16 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
-  <img alt="LinkedIn Light" src="./img/linkedin-light.svg" width="40px" />
-  <img alt="LinkedIn Dark" src="./img/linkedin-dark.svg" width="40px" />
+  <img alt="LinkedIn Light" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
 </a>
 
 &nbsp;&nbsp;
 <a href="https://x.com/MuntahaTah48442" target="_blank">
-  <img alt="X Light" src="./img/twitter-light.svg" width="40px" />
-  <img alt="X Dark" src="./img/twitter-dark.svg" width="40px" />
+  <img alt="X (Twitter)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" />
 </a>
 
 &nbsp;&nbsp;
 <a href="mailto:tahminmuntaha66@gmail.com">
-  <img alt="Gmail Light" src="./img/gmail-light.svg" width="40px" />
-  <img alt="Gmail Dark" src="./img/gmail-dark.svg" width="40px" />
+  <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
 </a>
-
-
 
