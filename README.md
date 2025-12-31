@@ -74,31 +74,13 @@ Currently, I’m focused on creating practical applications that solve real prob
   </a>
 </p>
 <br/>
-<h3>🚀 GitHub Performance</h3> 
+<h3>📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="190" alt="stats graph"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=tokyonight" height="190" alt="languages graph"/>
-</p>
+![Tahmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&hide_border=true&icon_color=1E90FF)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&hide_border=true&title_color=1E90FF&bg_color=ffffff00)
 
-### 🔥 Contribution Highlights
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahmin-Muntaha&theme=default&hide_border=true&fire=1E90FF&curr_streak_num=1E90FF)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tahmin-Muntaha&theme=tokyonight" height="200" alt="streak graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tahmin-Muntaha&theme=tokyonight&no-frame=true&margin-w=15&column=3" alt="trophies"/>
-</p>
-
----
-
-### 📈 Activity Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmin-Muntaha&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
+## 🔗 Repositories
+[![Total Repos](https://img.shields.io/github/repos/Tahmin-Muntaha?style=for-the-badge&color=1E90FF)](https://github.com/Tahmin-Muntaha?tab=repositories)
