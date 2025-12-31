@@ -56,7 +56,7 @@ Currently, I’m focused on creating practical applications that solve real prob
 </div>
 
 <br/>
-**📞 Contact Me**
+<h3>📞 Contact Me</h3>
 
 <br>
 
