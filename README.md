@@ -1,1 +1,1 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://www.canva.com/design/DAG9C-KyU9E/X4C4FbhXnkICJMPhw_3VRQ/edit?utm_content=DAG9C-KyU9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="GitHub README header image">
