@@ -77,9 +77,11 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <h3>📊 GitHub Stats (Fast)</h3> 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default)
+<!-- Main GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=auto)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=auto)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default)
-
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=auto)
