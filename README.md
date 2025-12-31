@@ -57,18 +57,16 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <br/>
 ### 📞 Contact Me
-<div style="display:flex; gap:18px; flex-wrap:wrap; align-items:center;">
 
-<a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank" style="text-decoration:none;">
-  <img src="https://api.iconify.design/logos:linkedin-icon.svg?color=%23ffffff" width="42" style="background:rgba(10,102,194,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tahmin-muntaha/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" style="margin-right:20px;" />
+  </a>
+  <a href="https://x.com/MuntahaTah48442" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="55" style="margin-right:20px;" />
+  </a>
+  <a href="mailto:tahminmuntaha66@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+</p>
 
-<a href="https://x.com/MuntahaTah48442" target="_blank" style="text-decoration:none;">
-  <img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="42" style="background:rgba(29,161,242,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
-</a>
-
-<a href="mailto:tahminmuntaha66@gmail.com" style="text-decoration:none;">
-  <img src="https://api.iconify.design/logos:google-gmail.svg" width="42" style="background:rgba(209,72,54,0.2); backdrop-filter:blur(8px); padding:10px; border-radius:15px;">
-</a>
-
-</div>
