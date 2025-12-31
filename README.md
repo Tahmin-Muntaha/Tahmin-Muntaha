@@ -56,3 +56,21 @@ Currently, I’m focused on creating practical applications that solve real prob
 </div>
 
 <br/>
+
+### Connect with me:
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/tahmin-muntaha/-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tahmin-muntaha/-dark-mode-only)
+
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://x.com/MuntahaTah48442-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://x.com/MuntahaTah48442-dark-mode-only)
+
+&nbsp;&nbsp;
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:tahminmuntaha66@gmail.com)
+
+
+
