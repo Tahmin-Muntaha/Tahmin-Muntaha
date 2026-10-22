@@ -78,10 +78,9 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 **Machine Learning (Learning & Exploring):**  
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=light" />
-    <img alt="NumPy, Pandas, Matplotlib" src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" />
-  </picture>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 **Tools & Version Control:**  
@@ -122,21 +121,22 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 ### 📊 GitHub Stats (Fast)
 
-<div align="center">
+<p align="center">
+  <img alt="Contribution Chart" src="https://ghchart.rshah.org/A855F7/Tahmin-Muntaha" width="95%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Tahmin-Muntaha&theme=flat&no-frame=true&margin-w=8&column=7" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tahmin-Muntaha&theme=onedark&no-frame=true&margin-w=8&column=7" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tahmin-Muntaha&theme=minimal&hide_border=true&area=true" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmin-Muntaha&theme=tokyo-night&hide_border=true&area=true" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=tokyonight&border_radius=20&title_color=FF69B4&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=default&border_radius=20&title_color=FF69B4" />
+    <img alt="GreenNest" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=default&border_radius=20&title_color=FF69B4" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=tokyonight&border_radius=20&title_color=FF69B4&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=default&border_radius=20&title_color=FF69B4" />
+    <img alt="HomeNest-Client" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=default&border_radius=20&title_color=FF69B4" />
+  </picture>
+</p>
 
 <br/>
 
