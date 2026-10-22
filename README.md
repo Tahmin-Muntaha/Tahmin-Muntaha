@@ -119,33 +119,11 @@ Currently, I’m focused on creating practical applications that solve real prob
 
 <br/>
 
-### 📊 GitHub Stats (Fast)
 
-<p align="center">
-  <img alt="Contribution Chart" src="https://ghchart.rshah.org/A855F7/Tahmin-Muntaha" width="95%" />
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=tokyonight&border_radius=20&title_color=FF69B4&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=default&border_radius=20&title_color=FF69B4" />
-    <img alt="GreenNest" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=GreenNest&theme=default&border_radius=20&title_color=FF69B4" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=tokyonight&border_radius=20&title_color=FF69B4&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=default&border_radius=20&title_color=FF69B4" />
-    <img alt="HomeNest-Client" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Tahmin-Muntaha&repo=HomeNest-Client&theme=default&border_radius=20&title_color=FF69B4" />
-  </picture>
-</p>
-
-<br/>
-
----
-
-<br/>
 
 ### 💻 Top Languages
-<p align="center">
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=tokyonight&icon_color=00FFFF&border_radius=20&title_color=FF69B4&text_color=FFFFFF&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tahmin-Muntaha&layout=compact&theme=default&icon_color=00FFFF&border_radius=20&title_color=FF69B4&text_color=000000" />
@@ -156,7 +134,7 @@ Currently, I’m focused on creating practical applications that solve real prob
 <br/>
 
 ### 🔥 GitHub Streak
-<p align="center">
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=tokyonight&icon_color=FF4500&border_radius=20&title_color=FF69B4&text_color=FFFFFF&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Tahmin-Muntaha&theme=default&icon_color=FF4500&border_radius=20&title_color=FF69B4&text_color=000000" />
@@ -167,7 +145,7 @@ Currently, I’m focused on creating practical applications that solve real prob
 <br/>
 
 ### 🧮 GitHub Stats
-<p align="center">
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=tokyonight&icon_color=FFD700&border_radius=20&title_color=FF69B4&text_color=FFFFFF&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Tahmin-Muntaha&show_icons=true&theme=default&icon_color=FFD700&border_radius=20&title_color=FF69B4&text_color=000000" />
